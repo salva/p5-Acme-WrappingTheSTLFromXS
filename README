@@ -1,6 +1,6 @@
 Acme-WrappingTheSTLFromXS
 =========================
 
-This Perl module shows how to use the C++ standard library from XS.
+This Perl module shows how to wrap functions using types in the C++ standard library from XS.
 
 
