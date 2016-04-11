@@ -1,0 +1,7 @@
+MYMETA.*
+Makefile
+*~
+WrappingTheSTLFromXS.c
+*.o
+blib
+pm_to_blib

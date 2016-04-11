@@ -1,0 +1,14 @@
+
+string T_STD_STRING
+
+OUTPUT
+T_STD_STRING
+        $arg = newSVpvn(($var).c_str(), ($var).length());
+
+INPUT
+T_STD_STRING
+        {
+            STRLEN len;
+            char *pv = SvPV($arg, len);
+            $var = string(pv, len);
+        }

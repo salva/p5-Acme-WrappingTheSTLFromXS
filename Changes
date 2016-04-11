@@ -1,0 +1,6 @@
+Revision history for Perl extension Acme::WrappingTheSTLFromXS.
+
+0.01  Mon Apr 11 09:37:56 2016
+	- original version; created by h2xs 1.23 with options
+		-An Acme::WrappingTheSTLFromXS
+
