@@ -10,9 +10,7 @@ using std::string;
 
 MODULE = Acme::WrappingTheSTLFromXS		PACKAGE = Acme::WrappingTheSTLFromXS
 
-string GiveMeAString(str, n)
-  string str
-  int n
+string GiveMeAString(string str, int n)
 
-int GiveMeAnInt(n)
-  int n
+int GiveMeAnInt(int n)
+
